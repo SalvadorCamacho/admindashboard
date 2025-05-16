@@ -26923,7 +26923,7 @@ return}if(typeof print=="function"){print(a)
 return}throw"Unable to print message: "+String(a)},
 auT(){var s=$.wH(),r=s.zr$
 r===$&&A.a()
-r.sFO("https://admindashboard-1-6ip6.onrender.com")
+r.sFO("https://admindashboard-eh83.onrender.com/api")
 s=s.zr$
 r=A.cr($.Lj.aR().a.i(0,"token"))
 s.sUK(A.ao(["x-token",r==null?"":r],t.N,t.z))},
